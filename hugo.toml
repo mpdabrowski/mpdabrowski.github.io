@@ -2,6 +2,7 @@ baseURL = 'https://mpdabrowski.github.io/'
 languageCode = 'en-us'
 theme = 'hyde'
 title = 'Michał P. Dąbrowski'
+publishDir = "public"
 [Menus]
   main = [
       {Name = "Github ↗", URL = "https://github.com/mpdabrowski/"},

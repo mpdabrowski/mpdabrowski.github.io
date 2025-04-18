@@ -143,7 +143,7 @@ bardziej praktyczne zastosowania. Jest używane min. do harmonogramowania zadań
 
 ### *Źrodła*
 
-[1] Roughgarden, Tim. Algorithms Illuminated: Part 2: Graph Algorithms and Data Structures. Soundlikeyourself Publishing, LLC, 2018.
+[1] Roughgarden, Tim. Algorithms Illuminated: Part 2: Graph Algorithms and Data Structures. Soundlikeyourself Publishing, LLC, 2018.\
 [2] Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest. Wprowadzenie do algorytmów. Wydawnictwo Naukowo-Techniczne, 1998
 
 

@@ -9,7 +9,7 @@ publishDir = "public"
       {Name = "LinkedIn ↗", URL = "https://www.linkedin.com/in/michal-dabrowski98//"}
   ]
 [params]
-  description = "Jestem programistą z kilkuletnim doświadczeniem. Interesuję się sztuczną inteligencją."
+  description = "Jestem programistą z kilkuletnim doświadczeniem. Interesuję się sztuczną inteligencją oraz algorytmiką."
   themeColor = "theme-base-0b"
   
 [[module.mounts]]
